@@ -1,0 +1,105 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+*.tar.gz
+*.rar
+
+#eclipse相关
+#.jsdtscope
+#.prefs
+
+#/SourceCode/admin/src/com/xnx3/weixin/
+#/SourceCode/admin/src/com/xnx3/admin/controller/TemplateFileController.java
+#/SourceCode/admin/WebRoot/WEB-INF/view/templateExternal/
+
+#/SourceCode/admin/.tern-project
+#/SourceCode/admin/WebRoot/WEB-INF/template/2/property.properties
+#/SourceCode/admin/WebRoot/WEB-INF/template/3/property.properties
+#/SourceCode/admin/WebRoot/WEB-INF/template/4/property.properties
+#/SourceCode/admin/WebRoot/WEB-INF/template/5/property.properties
+#/SourceCode/admin/WebRoot/WEB-INF/template/6/property.properties
+#/SourceCode/admin/WebRoot/WEB-INF/template/7/property.properties
+#/SourceCode/admin/src/com/xnx3/admin/controller/LoginController.java
+#/SourceCode/admin/WebRoot/WEB-INF/view/regByPhone.jsp
+
+#/SourceCode/domain/.tern-project
+
+/#SourceCode/im/.tern-project
+
+#/SourceCode/admin/.settings/
+#/SourceCode/domain/.settings/
+#/SourceCode/im/.settings/
+
+#超级管理后台的某些文件过滤
+#/SourceCode/admin/src/com/xnx3/j2ee/controller/notOpen/
+#/SourceCode/admin/src/com/xnx3/admin/controller/client/
+
+# 论坛插件过滤
+/src/main/java/com/xnx3/wangmarket/plugin/bbs/
+/src/main/resources/static/plugin/bbs/
+/src/main/webapp/WEB-INF/view/plugin/bbs/
+
+# innerDown 插件过滤
+/src/main/java/com/xnx3/wangmarket/plugin/innerDown/
+/src/main/webapp/WEB-INF/view/plugin/innerDown/
+
+# kefu、 kefu_domain 插件过滤
+/src/main/java/com/xnx3/wangmarket/plugin/kefu/
+/src/main/webapp/WEB-INF/view/plugin/kefu/
+/src/main/resources/static/plugin/kefu/
+/src/main/java/com/xnx3/wangmarket/plugin/kefu_domain/
+
+# siteTransfer插件过滤
+/src/main/java/com/xnx3/wangmarket/plugin/siteTransfer/
+/src/main/webapp/WEB-INF/view/plugin/siteTransfer/
+
+# aliyunServiceCreate 插件过滤
+/src/main/java/com/xnx3/wangmarket/plugin/aliyunServiceCreate/
+/src/main/webapp/WEB-INF/view/plugin/aliyunServiceCreate/
+
+# innerAccount 插件过滤
+/src/main/java/com/xnx3/wangmarket/plugin/innerAccount/
+/src/main/webapp/WEB-INF/view/plugin/innerAccount/
+
+/src/main/java/com/xnx3/wangmarket/plugin/shouguangyoutian/
+/src/main/webapp/WEB-INF/view/plugin/shouguangyoutian/
+
+/src/main/java/com/xnx3/wangmarket/plugin/putFile/
+/src/main/webapp/WEB-INF/view/plugin/putFile/
+
+/src/main/java/com/xnx3/wangmarket/plugin/putNews/
+/src/main/webapp/WEB-INF/view/plugin/putNews/
+/src/main/webapp/WEB-INF/view/plugin/alipay/
+/src/main/webapp/WEB-INF/view/plugin/phoneCreateSite/
+/src/main/webapp/WEB-INF/view/plugin/resourceStatistics/
+
+
+# site 生成的网站过滤
+/src/main/webapp/site/
+
+/SourceCode/admin/bin/
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/target/
+.classpath
+.project
+.settings/
+/doc/
+
+/src/main/java/com/xnx3/wangmarket/shop/
+/src/main/java/com/xnx3/wangmarket/weixin/
